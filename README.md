@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @iwaokiru
+- 👀 I’m interested in learning how to be a Fullstack developer
